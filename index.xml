@@ -10,5 +10,95 @@
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0600</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>A Model Parallel Proximal Stochastic Gradient Algorithm for Partially Asynchronous Systems</title>
+      <link>https://rzhu3.github.io/publication/asynprox_block/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://rzhu3.github.io/publication/asynprox_block/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Block-wise, Asynchronous and Distributed ADMM Algorithm for General Form Consensus Optimization</title>
+      <link>https://rzhu3.github.io/publication/asyn_admm/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://rzhu3.github.io/publication/asyn_admm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asynchronous Stochastic Proximal Methods for Nonconvex Nonsmooth Optimization</title>
+      <link>https://rzhu3.github.io/publication/asynprox/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://rzhu3.github.io/publication/asynprox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Multicast in Virtualized Datacenter Networks with Software Switches</title>
+      <link>https://rzhu3.github.io/publication/sdn/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://rzhu3.github.io/publication/sdn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Web Service Recommendation via Quantile Matrix Factorization</title>
+      <link>https://rzhu3.github.io/publication/qmf/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://rzhu3.github.io/publication/qmf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Latency Estimation for Personal Devices: a Matrix Completion Approach</title>
+      <link>https://rzhu3.github.io/publication/mf_is_p/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://rzhu3.github.io/publication/mf_is_p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expectile Matrix Factorization for Skewed Data Analysis</title>
+      <link>https://rzhu3.github.io/publication/emf/</link>
+      <pubDate>Sat, 04 Feb 2017 01:00:00 -0700</pubDate>
+      
+      <guid>https://rzhu3.github.io/publication/emf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Code Rate Adaptation in Cloud Storage Systems with Multiple Erasure Codes</title>
+      <link>https://rzhu3.github.io/publication/bsc/</link>
+      <pubDate>Sat, 04 Jun 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://rzhu3.github.io/publication/bsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Min-Cost Live Webcast under Joint Pricing of Data, Congestion and Virtualized Servers</title>
+      <link>https://rzhu3.github.io/publication/netgcoop/</link>
+      <pubDate>Sun, 12 Oct 2014 00:00:00 -0600</pubDate>
+      
+      <guid>https://rzhu3.github.io/publication/netgcoop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Secure Conditions for Distributed Storage Systems</title>
+      <link>https://rzhu3.github.io/publication/netcod/</link>
+      <pubDate>Tue, 04 Jun 2013 00:00:00 -0600</pubDate>
+      
+      <guid>https://rzhu3.github.io/publication/netcod/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 on Rui Zhu&#39;s Homepage</title>
+    <link>https://rzhu3.github.io/publication_types/4/</link>
+    <description>Recent content in 4 on Rui Zhu&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 19 Oct 2018 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="https://rzhu3.github.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Model Parallel Proximal Stochastic Gradient Algorithm for Partially Asynchronous Systems</title>
+      <link>https://rzhu3.github.io/publication/asynprox_block/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://rzhu3.github.io/publication/asynprox_block/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Block-wise, Asynchronous and Distributed ADMM Algorithm for General Form Consensus Optimization</title>
+      <link>https://rzhu3.github.io/publication/asyn_admm/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://rzhu3.github.io/publication/asyn_admm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asynchronous Stochastic Proximal Methods for Nonconvex Nonsmooth Optimization</title>
+      <link>https://rzhu3.github.io/publication/asynprox/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://rzhu3.github.io/publication/asynprox/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
